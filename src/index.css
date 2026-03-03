@@ -1,0 +1,36 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #050A14;
+  color: #C8D8EE;
+  font-family: 'DM Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: rgba(184, 150, 62, 0.3);
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #050A14;
+}
+::-webkit-scrollbar-thumb {
+  background: #1E3050;
+  border-radius: 3px;
+}
+
+input, textarea, button {
+  font-family: 'DM Sans', sans-serif;
+}
