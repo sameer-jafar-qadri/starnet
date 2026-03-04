@@ -6,12 +6,14 @@ const SERVICES_LIST = [
   "Data Destruction",
   "Server Decommissioning",
   "E-Waste Management",
+  "Furniture" ,
+  "we also buy Working IT Assests"
 ];
 
 const CONTACT_LIST = [
-  "enterprise@starnetcomputers.in",
-  "+91 98765 43210",
-  "Hyderabad · Bangalore",
+  "starnetcomputers25@gmail.com",
+  "tel:+91 8074088254 / +91 8686642938",
+  "Hyderabad ( Head Office )  · Bangalore",
   "Mumbai · Delhi · Pune",
 ];
 
