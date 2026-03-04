@@ -3,10 +3,10 @@ import FadeIn from "./FadeIn";
 import { GOLD } from "../data/constants";
 
 const CONTACT_INFO = [
-  ["📧", "enterprise@starnetcomputers.in", "Email"],
-  ["📞", "+91 98765 43210", "Phone"],
-  ["📍", "Hyderabad | Bangalore | Mumbai | Delhi | Pune", "Offices"],
-  ["🔗", "linkedin.com/company/starnetcomputers", "LinkedIn"],
+  ["📧", "StarNetComputers25@gmail.com", "Email"],
+  ["📞", "tel:+91 8074088254 / +91 8686642938", "Phone"],
+  ["📍", "Hyderabad ( Head Office ) | Bangalore | Mumbai | Delhi | Pune", "Offices"],
+  
 ];
 
 const TEXT_FIELDS = [
