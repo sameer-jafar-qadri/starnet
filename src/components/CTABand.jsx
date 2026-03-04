@@ -68,7 +68,7 @@ export default function CTABand() {
               Partner With Us
             </button>
             <a
-              href="tel:+919876543210"
+              href="tel:+91 8074088254 / +91 8686642938"
               style={{
                 display: "flex",
                 alignItems: "center",
